@@ -1,18 +1,87 @@
-### Hi there 👋, I'm Alex!
+# 👋 Hi, I'm Alexey
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Axllove&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Axllove" />
-</p>
+## Senior Frontend Engineer → Fullstack (Go) | AI & Web3 Enthusiast
 
-## Senior Frontend Developer | Fullstack Engineer (Go • Node • Vue)
-I am a Senior Frontend Specialist with over 4 years of experience in the **Vue** ecosystem, currently evolving into a robust **Fullstack Engineer**. My backend focus is centered on building scalable, high-performance services using **Golang**.
+Senior Frontend Developer with 4+ years of commercial experience, specializing in building scalable and high-performance applications with **Vue.js ecosystem**.
 
-- 🚀 **Current Focus:** Masterfully bridging the gap between sleek UIs and powerful Go-based microservices.
-- 🛠 **Innovation:** Integrating AI (RAG, Langchain) and Web3 technologies into production-ready applications.
-- 🏗 **Infrastructure:** Advocate for secure, self-hosted infrastructure and efficient internal tooling.
-- 🥅 **Career Goal:** Transitioning towards CTO / Tech Lead roles in AI-driven or Fintech/Blockchain ventures.
+Currently evolving into a **Fullstack Engineer (Go)** with a strong focus on backend architecture, distributed systems, and AI-driven products.
 
 ---
+
+## 🚀 What I Do
+
+* Design and build **scalable frontend architectures** (Vue, TypeScript)
+* Develop **backend services in Go** with focus on performance and clean architecture
+* Create **AI-powered applications** (RAG, STT/TTS, LLM integrations)
+* Build and maintain **Telegram bots and automation systems**
+* Work with **self-hosted infrastructure** and developer tooling
+
+---
+
+## 🧠 Current Focus
+
+* Backend development with **Go (Golang)**
+* AI systems integration (LLMs, LangChain, RAG pipelines)
+* Designing **microservices & event-driven architectures**
+* Exploring **Web3 / Blockchain integrations**
+
+---
+
+## 🛠 Tech Stack
+
+### Backend & Infrastructure
+
+* Go (Golang)
+* Node.js
+* PostgreSQL
+* Docker
+* REST / gRPC APIs
+
+### Frontend
+
+* Vue.js (core expertise)
+* TypeScript
+* React (working knowledge)
+* Modern JS ecosystem
+
+### AI & Automation
+
+* LangChain
+* LLM integrations
+* Speech-to-Text / Text-to-Speech
+* Telegram Bots
+
+---
+
+## 🏗 Engineering Approach
+
+* Clean architecture & maintainability first
+* Performance-oriented development
+* Automation over manual work
+* Self-hosted & privacy-friendly solutions
+* Strong focus on **developer experience (DX)**
+
+---
+
+## 📈 Career Direction
+
+Actively moving toward **Senior Fullstack / Tech Lead / CTO track**
+Interested in projects at the intersection of:
+
+* AI
+* Crypto / Web3
+* Developer platforms
+* High-load systems
+
+---
+
+## 📫 Contact Me
+
+* LinkedIn: https://linkedin.com/in/алексей-китаев-18537b24b/
+* Instagram: https://instagram.com/axl.ki
+
+---
+
 
 ### 🛠 Tech Stack:
 
