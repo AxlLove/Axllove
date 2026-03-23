@@ -1,30 +1,33 @@
-### Привет 👋, Меня зовут Алексей!
+### Hi there 👋, I'm Alex!
 
-![](https://komarev.com/ghpvc/?username=Axllove)
-
-## Front-end Developer
-- 💪 Люблю писать код
-- 🥅 Постоянно учусь и развиваюсь в веб технологиях
-- ⚡ Развиваюсь в сторону Full-stack dev
-- 🎉 Люблю путешествия и фотографии
-
-
-
-<h3 align="left">Для связи:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/алексей-китаев-18537b24b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="алексей-китаев-18537b24b/" height="30" width="40" /></a>
-<a href="https://instagram.com/axl.ki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axl.ki" height="30" width="40" /></a>
-<a href="https://vk.com/id18328535" target="blank"><img align="center" color="#0077FF" src="./src/VK_Compact_Logo.svg" alt="vk" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Axllove&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Axllove" />
 </p>
-<br />
-<h3 align="left">Мой стэк:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<br />
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axllove&show_icons=true&locale=en&layout=compact" alt="axllove" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axllove&show_icons=true&locale=en" alt="axllove" /></p>
-</div>
 
+## Senior Frontend Developer | Fullstack Engineer (Go • Node • Vue)
+I am a Senior Frontend Specialist with over 4 years of experience in the **Vue** ecosystem, currently evolving into a robust **Fullstack Engineer**. My backend focus is centered on building scalable, high-performance services using **Golang**.
 
+- 🚀 **Current Focus:** Masterfully bridging the gap between sleek UIs and powerful Go-based microservices.
+- 🛠 **Innovation:** Integrating AI (RAG, Langchain) and Web3 technologies into production-ready applications.
+- 🏗 **Infrastructure:** Advocate for secure, self-hosted infrastructure and efficient internal tooling.
+- 🥅 **Career Goal:** Transitioning towards CTO / Tech Lead roles in AI-driven or Fintech/Blockchain ventures.
 
+---
 
+### 🛠 Tech Stack:
+
+**Backend & Systems**
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+**Frontend & Mobile**
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+  <img src="
