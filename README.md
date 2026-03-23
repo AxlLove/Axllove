@@ -1,8 +1,8 @@
-### Привет 👋, Меня зовут Алексей!🐱‍👤
+### Привет 👋, Меня зовут Алексей!
 
 ![](https://komarev.com/ghpvc/?username=Axllove)
 
-## FrontEnd Developer
+## Front-end Developer
 - 💪 Люблю писать код
 - 🥅 Постоянно учусь и развиваюсь в веб технологиях
 - ⚡ Развиваюсь в сторону Full-stack dev
