@@ -1,87 +1,18 @@
-# 👋 Hi, I'm Alexey
+### Hi there 👋, I'm Alex!
 
-## Senior Frontend Engineer → Fullstack (Go) | AI & Web3 Enthusiast
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Axllove&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Axllove" />
+</p>
 
-Senior Frontend Developer with 4+ years of commercial experience, specializing in building scalable and high-performance applications with **Vue.js ecosystem**.
+## Senior Frontend Developer | Fullstack Engineer (Go • Node • Vue)
+I am a Senior Frontend Specialist with over 3 years of experience in the **Vue** ecosystem, currently evolving into a robust **Fullstack Engineer**. My backend focus is centered on building scalable, high-performance services using **Golang**.
 
-Currently evolving into a **Fullstack Engineer (Go)** with a strong focus on backend architecture, distributed systems, and AI-driven products.
-
----
-
-## 🚀 What I Do
-
-* Design and build **scalable frontend architectures** (Vue, TypeScript)
-* Develop **backend services in Go** with focus on performance and clean architecture
-* Create **AI-powered applications** (RAG, STT/TTS, LLM integrations)
-* Build and maintain **Telegram bots and automation systems**
-* Work with **self-hosted infrastructure** and developer tooling
+- 🚀 **Current Focus:** Masterfully bridging the gap between sleek UIs and powerful Go-based microservices.
+- 🛠 **Innovation:** Integrating AI (RAG, Langchain) and Web3 technologies into production-ready applications.
+- 🏗 **Infrastructure:** Advocate for secure, self-hosted infrastructure and efficient internal tooling.
+- 🥅 **Career Goal:** Transitioning towards CTO / Tech Lead roles in AI-driven or Fintech/Blockchain ventures.
 
 ---
-
-## 🧠 Current Focus
-
-* Backend development with **Go (Golang)**
-* AI systems integration (LLMs, LangChain, RAG pipelines)
-* Designing **microservices & event-driven architectures**
-* Exploring **Web3 / Blockchain integrations**
-
----
-
-## 🛠 Tech Stack
-
-### Backend & Infrastructure
-
-* Go (Golang)
-* Node.js
-* PostgreSQL
-* Docker
-* REST / gRPC APIs
-
-### Frontend
-
-* Vue.js (core expertise)
-* TypeScript
-* React (working knowledge)
-* Modern JS ecosystem
-
-### AI & Automation
-
-* LangChain
-* LLM integrations
-* Speech-to-Text / Text-to-Speech
-* Telegram Bots
-
----
-
-## 🏗 Engineering Approach
-
-* Clean architecture & maintainability first
-* Performance-oriented development
-* Automation over manual work
-* Self-hosted & privacy-friendly solutions
-* Strong focus on **developer experience (DX)**
-
----
-
-## 📈 Career Direction
-
-Actively moving toward **Senior Fullstack / Tech Lead / CTO track**
-Interested in projects at the intersection of:
-
-* AI
-* Crypto / Web3
-* Developer platforms
-* High-load systems
-
----
-
-## 📫 Contact Me
-
-* LinkedIn: https://linkedin.com/in/алексей-китаев-18537b24b/
-* Instagram: https://instagram.com/axl.ki
-
----
-
 
 ### 🛠 Tech Stack:
 
@@ -99,4 +30,32 @@ Interested in projects at the intersection of:
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-  <img src="
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+</p>
+
+**Emerging Tech**
+<p align="left">
+  <img src="https://img.shields.io/badge/Web3-F3BA2F?style=flat-square&logo=web3dotjs&logoColor=black" alt="Web3" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="TG" />
+  <img src="https://img.shields.io/badge/AI_Integration-FF6F61?style=flat-square&logo=openai&logoColor=white" alt="AI" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=axllove&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="axllove" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=axllove&show_icons=true&locale=en&theme=vision-friendly-dark" alt="axllove" />
+</p>
+
+---
+
+### 📫 Let's Connect:
+
+<p align="left">
+<a href="https://linkedin.com/in/алексей-китаев-18537b24b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/axl.ki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+⚡ *Fun fact: I apply the Pareto principle to optimize both my code architecture and my fitness routine.*
